@@ -21,6 +21,7 @@ class University
     //    last_name = ;
     //    age = ;
     //    sex = ;
+    //gdfhfd
     //}
 
     public void Add(int num)
